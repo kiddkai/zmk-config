@@ -98,8 +98,8 @@
             bindings = <
                  &none          &none         &none         &none      &none                                                                                              &none        &none      &none       &none     &none
                  &none          &kp GRAVE     &kp LPAR      &kp RPAR   &kp SEMI    &kp COMMA                                                                     &none    &none        &none      &none       &none     &none
-                 &kp EXCL       &kp LBRC      &kp SQT       &kp DQT    &kp RBRC    &kp QMARK                                                                     &none    &nond        &none      &none       &none     &none
-                 &kp HASH       &kp CARET     &kp KP_EQUAL  &kp UNDER  &kp DLLR    &kp STAR                                                                      &none    &nond        &none      &none       &none     &none
+                 &kp EXCL       &kp LBRC      &kp SQT       &kp DQT    &kp RBRC    &kp QMARK                                                                     &none    &none        &none      &none       &none     &none
+                 &kp HASH       &kp CARET     &kp KP_EQUAL  &kp UNDER  &kp DLLR    &kp STAR                                                                      &none    &none        &none      &none       &none     &none
                  &kp TILDE      &kp LT        &kp PIPE      &kp MINUS  &kp GT      &kp FSLH   &kp BSLH     &kp DOT     &kp STAR   &none     &none     &none      &none    &none        &none      &none       &none     &none
                  &kp AT         &kp AMPS      &kp LBKT      &kp RBKT   &kp PLUS               &kp PRCNT    &kp COLON   &kp SEMI   &none     &none     &none               &none        &none      &none       &none     &none
             >;
